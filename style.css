@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    width: 20em;
+}
