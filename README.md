@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL: ](https://github.com/cha-verde/blog-preview-card-main)
-- [Live Site URL:](https://cha-verde.github.io/blog-preview-card-main/)
+- [Solution URL](https://github.com/cha-verde/blog-preview-card-main)
+- [Live Site URL](https://cha-verde.github.io/blog-preview-card-main/)
 
 ## My process
 
